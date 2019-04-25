@@ -85,7 +85,7 @@ Enfin, des acteurs divers, aussi bien particuliers, médecins que juristes, se d
 
 <br>
 
-<h2>La judiciarisation du syndrôme d'épuisement profesionnel</h2>
+<h2>La judiciarisation du syndrôme d'épuisement professionnel</h2>
 
 <p align="justify">Porter le cas de burn-out en justice est une manière de réparer en imputant ou non des responsables. Plus que la simple réparation, la judiciarisation croissante des risques psycho-sociaux permet également de structurer l’action des directeurs des ressources humaines ou encore l’organisation des risques psycho-sociaux.</p>
 
